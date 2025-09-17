@@ -18,3 +18,6 @@ python-multipart
 uvicorn
 jinja2
 imblearn
+-e . 
+# this helps installing local packages in our virtual environment and stores matadata and configuration of our project to prevent error
+# Read crashcourse.txt file to learn more
